@@ -231,24 +231,11 @@ Implementação em [`backend/business_rules.py`](backend/business_rules.py).
 
 ---
 
-## 📚 Documentação
-
-| Documento | Conteúdo |
-|---|---|
-| [`docs/arquitetura.md`](docs/arquitetura.md) | Visão técnica detalhada da arquitetura |
-| [`docs/dicionario_dados.md`](docs/dicionario_dados.md) | Estrutura completa das tabelas e colunas |
-| [`docs/relatorio_tecnico.md`](docs/relatorio_tecnico.md) | Decisões técnicas, algoritmos e segurança |
-| [`docs/deploy_streamlit_cloud.md`](docs/deploy_streamlit_cloud.md) | Passo a passo de deploy público |
-| [`backend/etl/schema.sql`](backend/etl/schema.sql) | DDL Oracle pronto para executar |
-
----
-
 ## 👥 Equipe
 
 | Nome | RM |
 |---|---|
 | Giovanna Marotta | 567717 |
-| Adelaine Freire | 568465 |
 | Douglas Cavalcanti | 567841 |
 | Tiago Sgroglia | 567170 |
 | Victor de Aguiar | 567463 |
@@ -276,13 +263,13 @@ Implementação em [`backend/business_rules.py`](backend/business_rules.py).
 
 ## 📜 Licença
 
-Trabalho acadêmico desenvolvido no contexto do **Challenge FIAP 2025 · Turma 1TSCP**.
+Trabalho acadêmico desenvolvido no contexto do **Challenge FIAP 2025 · Turma 1TSCPR**.
 Uso restrito a fins educacionais. Ver [LICENSE.md](LICENSE.md).
 
 ---
 
 <div align="center">
 
-**Made with 💚 by 1TSCP @ FIAP · 2025**
+**Made with 💚 by CredUP @ FIAP · 2026**
 
 </div>
