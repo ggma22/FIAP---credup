@@ -2,7 +2,7 @@
 
 **Duração total**: 5 minutos
 **Formato**: gravação de tela do dashboard ao vivo + slides intercalados
-**Equipe**: Giovanna · Adelaine · Douglas · Tiago · Victor
+**Equipe**: Giovanna · Douglas · Tiago · Victor
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Bloco | Tempo | Quem fala | O que mostra na tela |
 |---|---|---|---|
-| 1. Abertura e contextualização | 0:00 → 0:30 | Giovanna | Slide 1 (capa) → Slide 2 (desafio) |
+| 1. Abertura e contextualização | 0:00 → 0:30 | | Slide 1 (capa) → Slide 2 (desafio) |
 | 2. Objetivo | 0:30 → 1:00 | Adelaine | Slide 3 |
 | 3. Proposta + arquitetura | 1:00 → 2:00 | Douglas | Slides 4, 5 e 6 |
-| 4. Demonstração ao vivo | 2:00 → 4:00 | Tiago e Victor | **Streamlit rodando** |
+| 4. Demonstração ao vivo | 2:00 → 4:00 || **Streamlit rodando** |
 | 5. Benefícios | 4:00 → 4:30 | Victor | Slide 11 |
 | 6. Próximos passos e encerramento | 4:30 → 5:00 | Giovanna | Slide 12 |
 
@@ -35,7 +35,7 @@ A pergunta que guiou a nossa Sprint 4 foi: e se a gente conseguisse enxergar o r
 
 ## Bloco 2 — Objetivo do projeto (0:30–1:00)
 
-> **Adelaine** *(slide 3)*
+>  *(slide 3)*
 
 "O objetivo do CredUp é entregar uma plataforma de inteligência analítica que transforma a carteira de duplicatas mercantis em decisão acionável.
 
