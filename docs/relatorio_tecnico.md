@@ -1,7 +1,7 @@
 # 📋 Relatório Técnico — CredUp Sprint 4
 
-**Equipe**: Giovanna Marotta · Adelaine Freire · Douglas Cavalcanti · Tiago Sgroglia · Victor de Aguiar
-**Disciplina**: 1TSCP · Challenge FIAP 2025
+**Equipe**: Giovanna Marotta · Douglas Cavalcanti · Tiago Sgroglia · Victor de Aguiar
+**Disciplina**: 1TSCPR · Challenge FIAP 2025
 **Versão**: 1.0 (entrega final)
 
 ---
