@@ -278,7 +278,7 @@ st.divider()
 st.markdown(
     """
     <div style="text-align: center; padding: 1.5rem 0; color: #94A3B8; font-size: 0.85rem;">
-        <strong style="color: #FFFFFF;">CredUp</strong> · FIAP 1TSCP · Challenge 2025 ·
+        <strong style="color: #FFFFFF;">CredUp</strong> · FIAP 1TSCPR · Challenge 2025 ·
         Plataforma acadêmica de inteligência analítica para FIDC e FII
     </div>
     """,
