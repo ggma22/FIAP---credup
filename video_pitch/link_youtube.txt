@@ -1,0 +1,7 @@
+[SUBSTITUIR APÓS UPLOAD DO VÍDEO NO YOUTUBE]
+
+Link do vídeo pitch (5 minutos):
+https://youtu.be/[seu-video-aqui]
+
+Configurar como "Não listado" (privado por link, não aparece em busca).
+Atualizar também o slide 12 do PPT antes de exportar a versão final.
