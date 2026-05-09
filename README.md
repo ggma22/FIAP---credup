@@ -10,7 +10,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31+-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Oracle](https://img.shields.io/badge/Oracle_Autonomous_DB-23-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/autonomous-database/)
 [![Plotly](https://img.shields.io/badge/Plotly-5.18-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
-[![FIAP](https://img.shields.io/badge/FIAP-Challenge_2025-EE2A7B?style=flat)](https://www.fiap.com.br)
+[![FIAP](https://img.shields.io/badge/FIAP-Challenge_2026-EE2A7B?style=flat)](https://www.fiap.com.br)
 [![License](https://img.shields.io/badge/license-Academic-blue?style=flat)](LICENSE.md)
 
 [Sobre](#-sobre) · [Como rodar](#-como-rodar) · [Arquitetura](#%EF%B8%8F-arquitetura) · [Documentação](#-documentação) · [Equipe](#-equipe)
@@ -263,7 +263,7 @@ Implementação em [`backend/business_rules.py`](backend/business_rules.py).
 
 ## 📜 Licença
 
-Trabalho acadêmico desenvolvido no contexto do **Challenge FIAP 2025 · Turma 1TSCPR**.
+Trabalho acadêmico desenvolvido no contexto do **Challenge FIAP 2026 · Turma 1TSCPR**.
 Uso restrito a fins educacionais. Ver [LICENSE.md](LICENSE.md).
 
 ---
